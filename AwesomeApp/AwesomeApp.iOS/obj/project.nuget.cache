@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RIjXlUVVnlcvHFLSj9AJo5Rbqk8VcgJiGcqJb031B9vYKr4pg6rmasxZVbHFqDIizM/HCF2mvKO7nUn6ENYsfQ==",
+  "success": true,
+  "projectFilePath": "E:\\Development\\Mobile\\AwesomeApp\\AwesomeApp\\AwesomeApp.iOS\\AwesomeApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
